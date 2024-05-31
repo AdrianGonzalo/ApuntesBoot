@@ -1,3 +1,3 @@
 Memaso
-To-do
+To-do TASK-TIDE init the proyect
 TopJuegos
